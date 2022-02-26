@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marly\\desktop\\Projetos .NET\\POO\\POO.csproj": {}
+    "C:\\Users\\marly\\Desktop\\Projetos .NET\\POO\\POO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marly\\desktop\\Projetos .NET\\POO\\POO.csproj": {
+    "C:\\Users\\marly\\Desktop\\Projetos .NET\\POO\\POO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marly\\desktop\\Projetos .NET\\POO\\POO.csproj",
+        "projectUniqueName": "C:\\Users\\marly\\Desktop\\Projetos .NET\\POO\\POO.csproj",
         "projectName": "POO",
-        "projectPath": "C:\\Users\\marly\\desktop\\Projetos .NET\\POO\\POO.csproj",
+        "projectPath": "C:\\Users\\marly\\Desktop\\Projetos .NET\\POO\\POO.csproj",
         "packagesPath": "C:\\Users\\marly\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marly\\desktop\\Projetos .NET\\POO\\obj\\",
+        "outputPath": "C:\\Users\\marly\\Desktop\\Projetos .NET\\POO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marly\\AppData\\Roaming\\NuGet\\NuGet.Config",
